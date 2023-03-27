@@ -9,7 +9,9 @@ In superalloys, oxidation has an erosive effect on the internal microstructure, 
 ***15/2/2023***
 Initial commits:
 
-1. Kp prediction model (data and code)
+1. Kp prediction model (data and code) 
+   data: consist of init composition data and activity data (Thermo-Calc); the data with label (continuous) 
+   model: Model.ipynb, the base-model based the activity of Ni, Al, Cr and the cbfv-model.
 2. Near surface microstructure prediction model (data and code)
 
 ## Usage 
